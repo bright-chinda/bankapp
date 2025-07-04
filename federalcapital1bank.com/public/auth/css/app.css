@@ -1,7 +1,8 @@
 body{
   background: linear-gradient(45deg, #50a3a2 0%, #0fa967 100%);
   color: #000;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
   min-height: 100vh;
   position:relative;
 }
